@@ -1,3 +1,12 @@
 [submodule "provision"]
 	path = provision
 	url = http://git.drupal.org/project/provision.git
+[submodule "hostmaster"]
+	path = hostmaster
+	url = http://git.drupal.org/project/hostmaster.git
+[submodule "devshop_provision"]
+	path = devshop_provision
+	url = http://git.drupal.org/project/devshop_provision.git
+[submodule "devshop_hosting"]
+	path = devshop_hosting
+	url = http://git.drupal.org/project/devshop_hosting.git
