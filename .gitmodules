@@ -13,3 +13,9 @@
 [submodule "provision_git"]
 	path = provision_git
 	url = http://git.drupal.org/project/provision_git.git
+[submodule "provision_solr"]
+	path = provision_solr
+	url = http://git.drupal.org/project/provision_solr.git
+[submodule "hosting_solr"]
+	path = hosting_solr
+	url = http://git.drupal.org/project/hosting_solr.git
