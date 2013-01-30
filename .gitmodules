@@ -9,13 +9,13 @@
 	url = http://git.drupal.org/project/devshop_provision.git
 [submodule "devshop_hosting"]
 	path = devshop_hosting
-	url = http://git.drupal.org/project/devshop_hosting.git
+	url = git.drupal.org:project/devshop_hosting.git
 [submodule "provision_git"]
 	path = provision_git
 	url = http://git.drupal.org/project/provision_git.git
 [submodule "provision_solr"]
 	path = provision_solr
-	url = http://git.drupal.org/project/provision_solr.git
+	url = gundalo@drupalcode.org:project/provision_solr.git
 [submodule "hosting_solr"]
 	path = hosting_solr
 	url = http://git.drupal.org/project/hosting_solr.git
