@@ -19,3 +19,9 @@
 [submodule "hosting_solr"]
 	path = hosting_solr
 	url = http://git.drupal.org/project/hosting_solr.git
+[submodule "provision_logs"]
+	path = provision_logs
+	url = http://git.drupal.org/project/provision_logs.git
+[submodule "hosting_logs"]
+	path = hosting_logs
+	url = http://git.drupal.org/project/hosting_logs.git
